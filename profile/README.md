@@ -18,7 +18,7 @@ Peak Studios develops:
 
 ## Technology
 
-Peak Studios showcases a stack that includes Lua, TypeScript, React, Node.js, PostgreSQL, the FiveM API, and Next.js. Its GitHub organization currently features public repositories such as `peak-trucking` and `peak-sprays`, alongside an organizational `.github` repository and a private demo repository.
+Peak Studios showcases a stack that includes Lua, TypeScript, React, Node.js, PostgreSQL, the FiveM API, and Next.js. Its GitHub organization currently features public repositories such as `peak-trucking` and `peak-sprays`...
 
 ## GitHub Organization
 
