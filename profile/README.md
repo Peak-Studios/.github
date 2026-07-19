@@ -31,3 +31,7 @@ Peak Studios maintains a public Discord community and links social channels thro
 ## Vision
 
 Peak Studios positions itself as a premier development studio for deeply immersive, high-performance FiveM systems with clean integration across QBCore, ESX, and custom frameworks. Its public presence suggests a focus on both polished standalone gameplay modules and foundational systems that help roleplay servers scale reliably.
+
+## AI Agent Toolkit
+
+Connect Codex, Claude Code, Cursor, GitHub Copilot, and other MCP clients to our public, source-pinned script documentation through the [Peak Studios Agent Toolkit](https://github.com/Peak-Studios/peak-agent-toolkit). The hosted MCP endpoint is https://peak-agent-toolkit.vercel.app/mcp.
